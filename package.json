@@ -1,11 +1,11 @@
 {
-  "name": "mongoose-auth",
+  "name": "mongoose-auth-latest",
   "description": "User authentication plugin for mongoose node.js orm",
   "version": "0.0.12",
   "homepage": "https://github.com/bnoguchi/mongoose-auth/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bnoguchi/mongoose-auth.git"
+    "url": "git://github.com/oJshua/mongoose-auth.git"
   },
   "author": "Brian Noguchi <brian.noguchi@gmail.com> (https://github.com/bnoguchi/)",
   "main": "./index.js",
